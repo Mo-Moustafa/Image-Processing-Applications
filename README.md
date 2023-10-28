@@ -5,6 +5,8 @@
 - [Features Extraction](#features-extraction)
 - [Segmentation](#segmentation)
 
+  Run from the .pro Qt file
+
 ## Filters
 
 ![f1](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/a78cc3de-2088-4f80-abf6-e65b77e20849)
