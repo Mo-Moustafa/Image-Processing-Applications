@@ -1,5 +1,9 @@
 # Image-Processing-Applications
 
+- [Filters](#filters)
+- [Edge Detection](#edge-detection)
+- [Features Extraction](#features-extraction)
+- [Segmentation](#segmentation)
 
 ## Filters
 
@@ -19,3 +23,14 @@ https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/fa4
 ![g1](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/d9e732cb-bff5-468b-befe-3af7ee8cc40d)
 ![g2](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/2cc11a67-ccd8-4a56-8cac-666cf5e22350)
 ![g3](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/5cbcf863-ac30-4812-8250-9741e9b17b67)
+
+
+## Features Extraction
+
+https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/6fd22f3a-9ef2-47fe-88f3-21d51188eec3
+
+
+
+## Segmentation
+
+
