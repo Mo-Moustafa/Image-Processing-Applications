@@ -30,7 +30,14 @@ https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/fa4
 https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/6fd22f3a-9ef2-47fe-88f3-21d51188eec3
 
 
-
 ## Segmentation
+
+https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/cc5857fc-6ae0-4387-aa66-11d2afa4afc6
+
+![s1](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/fa12c90e-6024-40c3-9631-e13eebfda784)
+![s2](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/fce75b27-b06c-4e9f-a553-52d7b19809e9)
+![s3](https://github.com/Mo-Moustafa/Image-Processing-Applications/assets/81877648/ebdb6c11-1a06-4ee8-b5b4-54f4dda2670d)
+
+
 
 
