@@ -1,0 +1,11 @@
+debug/EdgeDetection.o
+debug/Histogram.o
+debug/Image.o
+debug/frequencyfilters.o
+debug/main.o
+debug/mainwindow.o
+debug/Processing.o
+debug/Threshold.o
+debug/noise.o
+debug/noiseFilters.o
+debug/moc_mainwindow.o

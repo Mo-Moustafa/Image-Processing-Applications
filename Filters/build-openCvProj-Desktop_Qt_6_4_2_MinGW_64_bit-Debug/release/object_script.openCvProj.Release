@@ -1,0 +1,11 @@
+release/EdgeDetection.o
+release/Histogram.o
+release/Image.o
+release/frequencyfilters.o
+release/main.o
+release/mainwindow.o
+release/Processing.o
+release/Threshold.o
+release/noise.o
+release/noiseFilters.o
+release/moc_mainwindow.o
